@@ -15,3 +15,10 @@ O segundo nível é o interpessoal, aquele que se refere à minha relação com 
 
 ### Terceiro nível
 O terceiro nível é o sistêmico, correspondendo aos sistemas coletivos de acordos implícitos que utilizamos para arquitetar as relações humanas. Salas de aula, tribunais, famílias, ônibus, hospitais, todos esses espaços são regulados por sistemas de educação, justiça, família, coletividade, saúde etc. 
+
+## Componentes da CNV:
+
+- Observação(O que observamos?);
+- Sentimento(O que sentimos?);
+- Necessidades(O que precisamos?);
+- Pedido(O que pode enriquecer nossas vidas?).
