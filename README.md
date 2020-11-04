@@ -47,5 +47,6 @@ de educação, justiça, família, coletividade, saúde etc.
 
     - Coloque-se no lugar da pessoa, procure entender suas necessidades, motivações, expectativas, valores, etc;
 
-    - No final do diálogo, forneça feedbacks ao interlocutor, expresse como as informações foram interpretadas, faça críticas construtivas e elogios.
+    - No final do diálogo, forneça feedbacks ao interlocutor, expresse como as informações foram interpretadas, faça críticas 
+    construtivas e elogios.
 
