@@ -61,11 +61,11 @@ Julgamentos moralizadores (diferentes dos nossos valores)
 
 Formas de julgamentos:
 
-Culpa;
-Insultos;
-Depreciação;
-Crítica;
-Comparação.
+- Culpa;
+- Insultos;
+- Depreciação;
+- Crítica;
+- Comparação.
 
 Nossa atenção se concentra em:
 - Classificar;
