@@ -50,3 +50,32 @@ de educação, justiça, família, coletividade, saúde etc.
     - No final do diálogo, forneça feedbacks ao interlocutor, expresse como as informações foram interpretadas, faça críticas 
     construtivas e elogios.
 
+## Comunicação alienante da vida:
+
+Julgamentos moralizadores (diferentes dos nossos valores)
+
+"O teu problema é ser egoísta demais";
+"Ela é preguiçosa";
+"Eles são preconceituosos";
+"Isso é impróprio".
+
+Formas de julgamentos:
+
+Culpa;
+Insultos;
+Depreciação;
+Crítica;
+Comparação.
+
+Nossa atenção se concentra em:
+- Classificar;
+- Analisar; 
+- Determinar.
+
+Exemplo: 
+"Se um colega é detalhista, ele é cri cri e compulsivo.
+ Se eu sou detalhista, o colega é descuidado."
+
+Um comportamento explosivo, no ínício, tudo vai muito bem, porque as pessoas tentam entender. Mas se esse tipo de comportamento
+aumenta o nível de frequência, qual é a consequência de tudo isso? 
+É o preço emocional que elas vão pagar, que vai gerar ressentimento e baixa estima.
