@@ -54,10 +54,10 @@ de educação, justiça, família, coletividade, saúde etc.
 
 Julgamentos moralizadores (diferentes dos nossos valores)
 
-"O teu problema é ser egoísta demais";
-"Ela é preguiçosa";
-"Eles são preconceituosos";
-"Isso é impróprio".
+- "O teu problema é ser egoísta demais";
+- "Ela é preguiçosa";
+- "Eles são preconceituosos";
+- "Isso é impróprio".
 
 Formas de julgamentos:
 
