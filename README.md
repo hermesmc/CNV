@@ -1,9 +1,13 @@
 # CNV - Comunicação não violenta
 
+Este resumo foi feito a partir do curso de comunicaçõ não violenta na plataforma ALURA com a instrutora Priscila Stuani Durello.
+
 ## O que é?
 
 A CNV se baseia em habilidades de linguagem e comunicação que fortalecem 
 a capacidade de continuarmos humanos, mesmo em condições adversas.
+
+Em outras palavras: "é uma linguagem dinâmica que desestimula generalizações."
 
 ## Níveis da CNV
 
@@ -52,6 +56,8 @@ de educação, justiça, família, coletividade, saúde etc.
 
 ## Comunicação alienante da vida:
 
+- Fala e/ou comportamento que ferem o outro e a nós mesmos.
+
 Julgamentos moralizadores (diferentes dos nossos valores)
 
 - "O teu problema é ser egoísta demais";
@@ -79,3 +85,17 @@ Exemplo:
 Um comportamento explosivo, no ínício, tudo vai muito bem, porque as pessoas tentam entender. Mas se esse tipo de comportamento
 aumenta o nível de frequência, qual é a consequência de tudo isso? 
 É o preço emocional que elas vão pagar, que vai gerar ressentimento e baixa estima.
+
+Uma boa prática da CNV, nomear a emoção, sem julgamento moral, permite que os interlocutores se conectem em um espírito de 
+respeito mútuo e cooperação.
+
+### Negação de responsabilidade
+
+Exemplos:
+
+"Limpei meu quarto porque tive de fazê-lo."
+
+"Entrei no cheque especial porque ganho pouco."
+
+O fato é que pensamentos, sentimentos e ações são responsabilidades inteiramente pessoais e utilizar essa linguagem é um 
+meio de esconder essas responsabilidades de nós mesmos.
