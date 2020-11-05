@@ -53,6 +53,12 @@ de educação, justiça, família, coletividade, saúde etc.
 
     - No final do diálogo, forneça feedbacks ao interlocutor, expresse como as informações foram interpretadas, faça críticas 
     construtivas e elogios.
+    
+## Observações específicas:
+    Para evitar generalizações, procure efetuar observções específicas conforme o momento e o contexto. Para nos ajudar a fazer observações 
+    específicas, existe uma tabela que distingue observações isentas de avaliações daquelas que têm avaliações associadas.
+
+    Para visualizar a tabela, acesse: https://docs.google.com/document/d/1w2aTiusWph5xntH4CbwX0n6Xoqe3NT8PkAb_N6Rp2e8/edit?usp=sharing
 
 ## Comunicação alienante da vida:
 
