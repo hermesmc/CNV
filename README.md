@@ -1,6 +1,6 @@
 # CNV - Comunicação não violenta
 
-Este resumo foi feito a partir do curso de comunicaçõ não violenta na plataforma ALURA com a instrutora Priscila Stuani Durello.
+Este resumo foi feito a partir do curso de comunicaçõ não violenta na plataforma ###ALURA com a instrutora ###Priscila Stuani Durello.
 
 ## O que é?
 
