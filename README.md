@@ -122,31 +122,31 @@ Quando você for explicar a situação para outra pessoa, pode utilizar adjetivo
 
 - Eis aqui uma amostra de palavras que podem ser usadas dessa maneira:
 
-Ameaçado;
-Atacado;
-Coagido;
-Criticado;
-Desacreditado;
-Desamparado;
-Desapontado;
-Diminuído;
-Encurralado;
-Enganado;
-Ignorado;
-Intimidado;
-Mal compreendido;
-Maltratado;
-Manipulado;
-Menosprezado;
-Negligenciado;
-Podado;
-Pressionado;
-Preterido;
-Provocado;
-Rejeitado;
-Sobrecarregado;
-Subestimado;
-Traído;
+Ameaçado;<br>
+Atacado;<br>
+Coagido;<br>
+Criticado;<br>
+Desacreditado;<br>
+Desamparado;<br>
+Desapontado;<br>
+Diminuído;<br>
+Encurralado;<br>
+Enganado;<br>
+Ignorado;<br>
+Intimidado;<br>
+Mal compreendido;<br>
+Maltratado;<br>
+Manipulado;<br>
+Menosprezado;<br>
+Negligenciado;<br>
+Podado;<br>
+Pressionado;<br>
+Preterido;<br>
+Provocado;<br>
+Rejeitado;<br>
+Sobrecarregado;<br>
+Subestimado;<br>
+Traído;<br>
 Usado.
 
 Como expressar sentimentos? Uma forma é tentar buscar a orgiem: "Por que me sinto assim?"
