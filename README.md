@@ -110,4 +110,48 @@ meio de esconder essas responsabilidades de nós mesmos.
 Na comunicação não violenta não há espaço para "terceirização" de responsabilidades.
 
 
-# "Nomear as emoções é o primeiro passo para desenvolver a inteligência emocional e social."
+## "Nomear as emoções é o primeiro passo para desenvolver a inteligência emocional e social."
+
+Do ponto de vista da ciência, ela explica que, simplesmente, nomear as emoções inicia um processo de autoconhecimento e 
+entendimento sobre o que a pessoa está sentindo. Literalmente, nomear as emoções é o primeiro passo para desenvolver a 
+inteligência emocional e social.
+
+Por exemplo, imagine que você está chateado com seu chefe porque ele o criticou diante dos seus companheiros de trabalho. 
+Quando você for explicar a situação para outra pessoa, pode utilizar adjetivos como “envergonhado”, “impotente”, “chateado”, 
+“com raiva” ou “humilhado”. Isso permitirá que a outra pessoa o compreenda e saiba como ajudá-lo.
+
+- Eis aqui uma amostra de palavras que podem ser usadas dessa maneira:
+
+Ameaçado;
+Atacado;
+Coagido;
+Criticado;
+Desacreditado;
+Desamparado;
+Desapontado;
+Diminuído;
+Encurralado;
+Enganado;
+Ignorado;
+Intimidado;
+Mal compreendido;
+Maltratado;
+Manipulado;
+Menosprezado;
+Negligenciado;
+Podado;
+Pressionado;
+Preterido;
+Provocado;
+Rejeitado;
+Sobrecarregado;
+Subestimado;
+Traído;
+Usado.
+
+Como expressar sentimentos? Uma forma é tentar buscar a orgiem: "Por que me sinto assim?"
+Tente entender o que fez com que você experimentasse todo esse acumulo de sensações. 
+
+## Pratique a responsabilidade emocional.
+
+## A responsabilidade pelo que você sente é pessoal e intransferível.
