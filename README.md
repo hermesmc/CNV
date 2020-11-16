@@ -26,8 +26,8 @@ de educação, justiça, família, coletividade, saúde etc.
 
 ## Componentes da CNV:
 
-- Observação(O que observamos?);
-- Sentimento(O que sentimos?);
+- Observação(O que observamos?); --> Observar sem avaliar.
+- Sentimento(O que sentimos?); --> Expressar como nos sentimos.
 - Necessidades(O que precisamos?);
 - Pedido(O que pode enriquecer nossas vidas?).
 
@@ -106,3 +106,8 @@ Exemplos:
 
 O fato é que pensamentos, sentimentos e ações são responsabilidades inteiramente pessoais e utilizar essa linguagem é um 
 meio de esconder essas responsabilidades de nós mesmos.
+
+Na comunicação não violenta não há espaço para "terceirização" de responsabilidades.
+
+
+# "Nomear as emoções é o primeiro passo para desenvolver a inteligência emocional e social."
