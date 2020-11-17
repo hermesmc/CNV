@@ -9,6 +9,12 @@ a capacidade de continuarmos humanos, mesmo em condições adversas.
 
 Em outras palavras: "é uma linguagem dinâmica que desestimula generalizações."
 
+## Como a CNV pode ajudar?
+
+- A CNV se baseia em habilidades de linguagem e comunicação, mesmo em situações adversas.
+- Reformula a maneira pela qual nos expresamos e ouvimos os outros.
+- A CNV é uma linguagem dinâmica que desestimula GENERALIZAÇÕES.
+
 ## Níveis da CNV
 
 ### Primeiro nível
@@ -151,6 +157,8 @@ Usado.
 
 Como expressar sentimentos? Uma forma é tentar buscar a orgiem: "Por que me sinto assim?"
 Tente entender o que fez com que você experimentasse todo esse acumulo de sensações. 
+
+## Ouça sem criticar
 
 ## Pratique a responsabilidade emocional.
 
